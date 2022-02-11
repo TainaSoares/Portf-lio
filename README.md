@@ -5,42 +5,49 @@
 <!-- PROJECT MENU -->
 <p align="center">
   <a href="#sobre">Sobre</a> &#xa0; | &#xa0; 
-  <a href="#portfolio">API</a> &#xa0; | &#xa0;
-  <a href="#tecnologias">Tecnologias</a> &#xa0; | &#xa0;
-  <a href="#funciona">Funcionalidades</a> &#xa0; | &#xa0;  
+  <a href="#portfolio">Portfólio</a> &#xa0; | &#xa0;
+  <a href="#labenu">Labenu</a> &#xa0; | &#xa0;
+  <a href="#tecnologias">Tecnologias</a> &#xa0; | &#xa0; 
 </p>
 
 
 
 <!-- PROJECT SOBRE -->
 <h2 id="sobre">:notebook: Sobre </h2>
-<p align="justify">Projeto LabeCommerce desenvolvido em TypeScript, demonstra de forma básica o registro de produtos e compras, além de buscar por todos os produtos ou por buscar filtradas.</p>
+<p align="justify">Parte do projeto final do curso de Desenvolvimento Web, ofertado pela Labenu. A Labenu é uma escola de programação que visa ensinar o futuro desenvolvedor a possuir habilidades técnicas e pessoais para ingressar no mercado de trabalho, possuindo um ensino de qualidade.</p>
 
 
-<!-- PROJECT POSTMAN -->
+<!-- PROJECT Link -->
 <h2 id="portfolio">:earth_americas: Link do PortFólio </h2>
 <p>🔗 <a href="https://offbeat-record.surge.sh/" target="_blank"> PortFolio </a>  </p>
 <!-- <a href="https://offbeat-record.surge.sh/" onclick="return ! window.open(this.href);"> Open in a new window</a> -->
+
+<h2 id="labenu">💻 Link da Labenu </h2>
+<p>🔗 <a href="https://www.labenu.com.br/" target="_blank"> Labenu </a>  </p>
+<!-- <a href="https://www.labenu.com.br/" onclick="return ! window.open(this.href);"> Open in a new window</a> -->
 
 
 <!-- PROJECT TECHNOLOGIES -->
 <h2 id="tecnologias"> 🛠 Tecnologias </h2>
 
-Abaixo segue o que foi utilizado na criação deste projeto:
+Abaixo segue as principais tecnologias do curso:
 
-<p>🔗 <a href="https://nodejs.org/en/" target="_blank"> Node.JS </a> - Como um tempo de execução JavaScript assíncrono orientado a eventos, o Node.js foi projetado para criar aplicativos de rede escaláveis. </p>
-<p>🔗 <a href="https://www.typescriptlang.org/" target="_blank"> TypeScript <a/> - O TypeScript adiciona uma sintaxe ao JavaScript para oferecer suporte a uma integração mais estreita com seu editor. Detectando erros desde o início da escrita do código.</p>
-<!-- PROJECT IT WORKS-->
-<h2 id="funciona">:heavy_check_mark: O que funciona</h2>
+|Front-End   |Back-End   |
+|------------|-----------|
+|HTML        |Node       |
+|CSS         |TypeScript |
+|JavaScript  |MySQL      |
+|React       |AWS        |
+|Jest        |Firebase   |
 
 
-###  API
-- [x] SingUp;
-- [x] Get All Users With Buy Something;
-- [x] Register Product;
-- [x] getAllProducts;
-- [x] Register Purchase;
-- [x] getAllCustomers;
+
+
+! OBSERVAÇÃO  
+Acesse o link do portfólio, lá terá um link direto para o linkedin, assim como liks de alguns projetos do github.
   
 <a href="#top">Voltar para o topo</a>
+
+
+
 
